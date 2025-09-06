@@ -36,12 +36,15 @@ Currently, I'm pursuing a Software Engineering degree at FPT University, Quy Nho
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SangTran13&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true%22" alt="Most Used Languages" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SangTran13&layout=compact" alt="Most Used Languages" width="400" />
 </div>
+
+---
 
 ## 🙏 Thank you!
 
 Thank you for visiting my profile!  
 If you have any questions, collaboration ideas, or just want to connect, feel free to reach out!
+
 
 
