@@ -32,7 +32,7 @@ Currently, I'm pursuing a Software Engineering degree at FPT University, Quy Nho
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SangTran13&show_icons=true&theme=dracula" alt="Sang Tran Ngoc's GitHub stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SangTran13&show_icons=true&theme=dracula" alt="Sang Tran Ngoc's GitHub stats" width="400", height="220" />
 </div>
 
 <div align="center">
@@ -45,6 +45,7 @@ Currently, I'm pursuing a Software Engineering degree at FPT University, Quy Nho
 
 Thank you for visiting my profile!  
 If you have any questions, collaboration ideas, or just want to connect, feel free to reach out!
+
 
 
 
