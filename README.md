@@ -11,7 +11,6 @@
 ## 🧑‍💻 About Me
 
 I'm a passionate backend developer specializing in ASP.NET Core and .NET technologies. With a strong foundation in programming, effective communication, and a high willingness to learn, I thrive in collaborative environments and enjoy building innovative solutions.  
-Currently, I'm pursuing a Software Engineering degree at FPT University, Quy Nhon, Vietnam (GPA: 8.7/10).
 
 - 💪 **Strengths:** Backend development with ASP.NET Core, solid software engineering principles, and hands-on experience in both academic and real-world projects.
 - 🚀 Always eager to expand my skills, especially in backend APIs, databases, and cloud technologies.
@@ -52,5 +51,6 @@ Currently, I'm pursuing a Software Engineering degree at FPT University, Quy Nho
 
 Thank you for visiting my profile!  
 If you have any questions, collaboration ideas, or just want to connect, feel free to reach out!
+
 
 
