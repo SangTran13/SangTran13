@@ -35,7 +35,7 @@ I'm a passionate backend developer specializing in ASP.NET Core and .NET technol
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=SangTran13&show_icons=true&theme=dracula" alt="Sang Tran Ngoc's GitHub stats" width="400" height="200"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=SangTran13&show_icons=true" alt="Sang Tran Ngoc's GitHub stats" width="400" height="200"/>
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SangTran13&layout=compact" alt="Most Used Languages" width="400" height="200"/>
@@ -51,6 +51,7 @@ I'm a passionate backend developer specializing in ASP.NET Core and .NET technol
 
 Thank you for visiting my profile!  
 If you have any questions, collaboration ideas, or just want to connect, feel free to reach out!
+
 
 
 
