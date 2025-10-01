@@ -10,9 +10,9 @@
 
 ## 🧑‍💻 About Me
 
-I'm a passionate backend developer specializing in ASP.NET Core and .NET technologies. With a strong foundation in programming, effective communication, and a high willingness to learn, I thrive in collaborative environments and enjoy building innovative solutions.  
+I'm a passionate backend developer specializing in ASP.NET Core, .NET, and Java technologies. With a strong foundation in programming, effective communication, and a high willingness to learn, I thrive in collaborative environments and enjoy building innovative solutions.
 
-- 💪 **Strengths:** Backend development with ASP.NET Core, solid software engineering principles, and hands-on experience in both academic and real-world projects.
+- 💪 **Strengths:** Backend development with ASP.NET Core and Java, solid software engineering principles, and hands-on experience in both academic and real-world projects.
 - 🚀 Always eager to expand my skills, especially in backend APIs, databases, and cloud technologies.
 - 📚 Enhanced expertise through Coursera specializations in Project Management, UX Design, SDLC, and Web Development.
 
@@ -51,6 +51,7 @@ I'm a passionate backend developer specializing in ASP.NET Core and .NET technol
 
 Thank you for visiting my profile!  
 If you have any questions, collaboration ideas, or just want to connect, feel free to reach out!
+
 
 
 
