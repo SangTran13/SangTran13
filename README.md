@@ -38,10 +38,10 @@ I am a Backend Developer with a strong focus on building robust, scalable applic
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SangTran13/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Overview (Dark)" width="80%">
-  <img src="https://raw.githubusercontent.com/SangTran13/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Top Languages (Dark)" width="80%">
-  <img src="https://raw.githubusercontent.com/SangTran13/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="GitHub Overview (Light)" width="80%">
-  <img src="https://raw.githubusercontent.com/SangTran13/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="Top Languages (Light)" width="80%">
+  <img src="https://raw.githubusercontent.com/SangTran13/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Overview (Dark)" width="48%">
+  <img src="https://raw.githubusercontent.com/SangTran13/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Top Languages (Dark)" width="48%">
+  <img src="https://raw.githubusercontent.com/SangTran13/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="GitHub Overview (Light)" width="48%">
+  <img src="https://raw.githubusercontent.com/SangTran13/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="Top Languages (Light)" width="48%">
 </p>
 
 <br/>
