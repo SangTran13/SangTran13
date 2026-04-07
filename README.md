@@ -1,6 +1,5 @@
 <h1 align="center">Hi there, I'm Tran Ngoc Sang 👋</h1>
 <h3 align="center">Backend Developer | Aspiring Software Engineer</h3>
----
 
 ## 🧑‍💻 About Me
 
