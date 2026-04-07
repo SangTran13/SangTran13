@@ -1,12 +1,5 @@
 <h1 align="center">Hi there, I'm Tran Ngoc Sang 👋</h1>
 <h3 align="center">Backend Developer | Aspiring Software Engineer</h3>
-
-<p align="center">
-  <a href="https://github.com/SangTran13">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
