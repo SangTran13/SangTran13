@@ -16,7 +16,7 @@ I am a Backend Developer with a strong focus on building robust, scalable applic
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,java,nodejs,nestjs,nextjs,mongo,postgres,docker,js,html,css,bootstrap,linux,firebase,github,gitlab,discord,kotlin,linkedin,vscode&perline=11" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=dotnet,java,nodejs,nestjs,nextjs,docker,kotlin&perline=7" alt="Tech Stack" />
   </a>
 </p>
 
