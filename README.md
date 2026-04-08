@@ -1,18 +1,16 @@
 <h1 align="center">Backend Developer | Aspiring Software Engineer</h1>
 
 ---
-
-## 🧑‍💻 About Me
+## About Me
 
 I am a Backend Developer with a strong focus on building robust, scalable applications. I thrive in collaborative environments and am constantly expanding my expertise in modern software engineering.
 
-- 💻 **Core Stack:** ASP.NET Core, .NET, Java, Node.js
-- 🚀 **Focus Areas:** API Design, Database Architecture, Cloud Technologies, and System Design.
-- 🎓 **Continuous Learning:** Actively upskilling through Coursera specializations in Project Management, UX Design, SDLC, and Web Development.
+- **Core Stack:** ASP.NET Core, .NET, Java, Node.js
+- **Focus Areas:** API Design, Database Architecture, Cloud Technologies, and System Design.
+- **Continuous Learning:** Actively upskilling through Coursera specializations in Project Management, UX Design, SDLC, and Web Development.
 
 ---
-
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -21,8 +19,7 @@ I am a Backend Developer with a strong focus on building robust, scalable applic
 </p>
 
 ---
-
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/SangTran13/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Overview (Dark)" width="48%">
