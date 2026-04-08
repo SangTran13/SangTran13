@@ -1,5 +1,7 @@
 <h1 align="center">Backend Developer | Aspiring Software Engineer</h1>
 
+---
+
 ## 🧑‍💻 About Me
 
 I am a Backend Developer with a strong focus on building robust, scalable applications. I thrive in collaborative environments and am constantly expanding my expertise in modern software engineering.
