@@ -1,6 +1,5 @@
 <h1 align="center">Backend Developer | Aspiring Software Engineer</h1>
 
----
 ## About Me
 
 I am a Backend Developer with a strong focus on building robust, scalable applications. I thrive in collaborative environments and am constantly expanding my expertise in modern software engineering.
@@ -9,7 +8,6 @@ I am a Backend Developer with a strong focus on building robust, scalable applic
 - **Focus Areas:** API Design, Database Architecture, Cloud Technologies, and System Design.
 - **Continuous Learning:** Actively upskilling through Coursera specializations in Project Management, UX Design, SDLC, and Web Development.
 
----
 ## Tech Stack & Tools
 
 <p align="center">
@@ -18,7 +16,6 @@ I am a Backend Developer with a strong focus on building robust, scalable applic
   </a>
 </p>
 
----
 ## GitHub Analytics
 
 <p align="center">
